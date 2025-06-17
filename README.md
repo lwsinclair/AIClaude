@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ygboy1986-aiclaude-badge.png)](https://mseep.ai/app/ygboy1986-aiclaude)
+
 # DeepSeek-Claude MCP Server
 [![smithery badge](https://smithery.ai/badge/@HarshJ23/deepseek-claude-MCP-server)](https://smithery.ai/server/@HarshJ23/deepseek-claude-MCP-server)
 
